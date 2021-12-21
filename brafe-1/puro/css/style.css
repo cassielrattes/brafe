@@ -19,20 +19,6 @@ body {
   color: #252525;
 }
 
-img {
-  display: block;
-  max-width: 100%;
-  object-fit: cover;
-}
-
-ul {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
-}
-
 /* BREAKPOINTS 
 960
 740
